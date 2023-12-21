@@ -1,0 +1,9 @@
+setup.py
+B_WGAN.egg-info/PKG-INFO
+B_WGAN.egg-info/SOURCES.txt
+B_WGAN.egg-info/dependency_links.txt
+B_WGAN.egg-info/requires.txt
+B_WGAN.egg-info/top_level.txt
+src/__init__.py
+src/main/__init__.py
+src/main/main.py
