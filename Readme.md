@@ -8,6 +8,7 @@ https://arxiv.org/abs/1603.08511
 https://arxiv.org/abs/1611.07004 
 ```
 Also I used Few code snippets from some online available resources
+![download (2)](https://github.com/suvraadeep/Black-and-White-image-colorization-using-GAN-and-U-Net/assets/154406386/2fc7ff82-f22e-445a-a994-5c88693eb859)
 
 # Note
 1. Every epoch takes about 7 to 48 minutes on Colab. After about 20 epochs you should see some reasonable results hence I used Tesla T4 GPU hence it is suggested to use some good GPU as I stopped after 6-7 epochs as it was about to take 12 hours+ to train the model.
