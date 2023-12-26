@@ -4,5 +4,6 @@ matplotlib
 tensorflow
 torch
 torchvision
+fastai
 
 -e .
