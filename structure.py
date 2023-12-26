@@ -5,11 +5,12 @@ import logging
 logging.basicConfig(level=logging.INFO, format='[%(asctime)s]: %(message)s:')
 list_of_files = [
     "src/__init__.py",
+    "src/dataset.py",
     "src/helper.py",
-    "src/func.py",
-    "src/train.py",
+    "src/inn.py",
     "src/loss.py",
     "src/mainmodel.py",
+    "src/utils.py"
     "setup.py",
     "app.py"
 
