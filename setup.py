@@ -5,6 +5,6 @@ setup(
     version='0.0.1',
     author='suvradeep',
     author_email='dassuvradeep9@gmail.com',
-    install_requires=["matplotlib","pandas","numpy","torch","tensorflow"],
+    install_requires=["matplotlib","pandas","numpy","torch","tensorflow","torchvision"],
     packages=find_packages()
 )

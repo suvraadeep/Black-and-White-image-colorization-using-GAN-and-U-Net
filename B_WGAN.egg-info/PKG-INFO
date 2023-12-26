@@ -3,8 +3,3 @@ Name: B-WGAN
 Version: 0.0.1
 Author: suvradeep
 Author-email: dassuvradeep9@gmail.com
-Requires-Dist: matplotlib
-Requires-Dist: pandas
-Requires-Dist: numpy
-Requires-Dist: torch
-Requires-Dist: tensorflow
