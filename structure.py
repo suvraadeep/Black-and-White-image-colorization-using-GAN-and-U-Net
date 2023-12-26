@@ -7,7 +7,10 @@ list_of_files = [
     "src/__init__.py",
     "src/helper.py",
     "src/func.py",
-    "setup.py"
+    "src/train.py",
+    "src/loss.py",
+    "src/mainmodel.py",
+    "setup.py",
     "app.py"
 
 ]
